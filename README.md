@@ -2,9 +2,6 @@
 
 Aplikasi To-Do List modern dengan desain glassmorphism yang menarik dan fitur lengkap.
 
-![To-Do List Preview](<img width="1920" height="947" alt="screencapture-127-0-0-1-5500-index-html-2026-01-21-12_58_57 (1)" src="https://github.com/user-attachments/assets/d1378501-7fa9-419b-bccd-b38e7e5f62ac" />
-)
-
 ## 🚀 Fitur
 
 - ✅ **Tambah Tugas** - Tambahkan tugas baru dengan mudah
